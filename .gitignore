@@ -1,0 +1,19 @@
+node_modules
+.vscode
+.idea
+**/.env
+**/*.wav
+
+# macos
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
